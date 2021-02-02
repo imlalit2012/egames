@@ -1,0 +1,34 @@
+body {
+  background: url(../img/eGaming.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+.custom-bg{
+    background: #26C6DA!important;
+}
+
+.admin .card{
+    border:2px solid #26C6DA;
+}
+
+.admin .card:hover{ 
+    background: #e2e2e2;
+    cursor: pointer;
+}
+
+.list-group-item.active{
+    background: #26C6DA!important;
+    border-color: #26C6DA!important;
+}
+
+.discount-label{
+    font-size:  14px!importtant; 
+    font-style: italic!important;
+}
+
+.product-card:hover{
+       background: #e2e2e2;
+    cursor: pointer;
+}
